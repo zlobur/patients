@@ -1,0 +1,105 @@
+2019-07-08 19:45:35.8924 Info Message Template Auto Format enabled
+2019-07-08 19:45:36.1638 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-08 19:45:36.6059 Info Adding target FileTarget(Name=allfile)
+2019-07-08 19:45:36.6151 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-08 19:45:36.7260 Info Found 45 configuration items
+2019-07-08 19:45:36.7762 Info Configuration initialized.
+2019-07-08 19:45:36.8477 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-08 19:47:50.9868 Info Configuring from an XML element in C:\source\App\App\bin\Debug\netcoreapp2.1\nlog.config...
+2019-07-08 19:47:50.9868 Info Message Template Auto Format enabled
+2019-07-08 19:47:50.9868 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-08 19:47:51.0042 Info Adding target FileTarget(Name=allfile)
+2019-07-08 19:47:51.0042 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-08 19:47:51.0042 Info Closing old configuration.
+2019-07-08 19:47:51.0972 Info Found 45 configuration items
+2019-07-09 12:16:19.3679 Info Message Template Auto Format enabled
+2019-07-09 12:16:19.5185 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 12:16:20.0272 Info Adding target FileTarget(Name=allfile)
+2019-07-09 12:16:20.0405 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 12:16:20.1716 Info Found 45 configuration items
+2019-07-09 12:16:20.2716 Info Configuration initialized.
+2019-07-09 12:16:20.7996 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 12:18:12.0269 Info Configuring from an XML element in C:\source\App\App\bin\Debug\netcoreapp2.1\nlog.config...
+2019-07-09 12:18:12.0269 Info Message Template Auto Format enabled
+2019-07-09 12:18:12.0313 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 12:18:12.0313 Info Adding target FileTarget(Name=allfile)
+2019-07-09 12:18:12.0604 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 12:18:12.0640 Info Closing old configuration.
+2019-07-09 12:18:12.1367 Info Found 45 configuration items
+2019-07-09 12:28:51.8808 Info Message Template Auto Format enabled
+2019-07-09 12:28:52.1724 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 12:28:53.1929 Info Adding target FileTarget(Name=allfile)
+2019-07-09 12:28:53.2069 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 12:28:53.3822 Info Found 45 configuration items
+2019-07-09 12:28:53.4497 Info Configuration initialized.
+2019-07-09 12:28:53.7331 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 12:30:46.4810 Info Configuring from an XML element in C:\source\App\App\bin\Debug\netcoreapp2.1\nlog.config...
+2019-07-09 12:30:46.4810 Info Message Template Auto Format enabled
+2019-07-09 12:30:46.4854 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 12:30:46.4854 Info Adding target FileTarget(Name=allfile)
+2019-07-09 12:30:46.4854 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 12:30:46.4996 Info Closing old configuration.
+2019-07-09 12:30:46.5873 Info Found 45 configuration items
+2019-07-09 14:27:14.9481 Info Message Template Auto Format enabled
+2019-07-09 14:27:15.0138 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 14:27:15.4333 Info Adding target FileTarget(Name=allfile)
+2019-07-09 14:27:15.4589 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 14:27:15.5986 Info Found 45 configuration items
+2019-07-09 14:27:15.6303 Info Configuration initialized.
+2019-07-09 14:27:15.6596 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 14:27:52.6339 Info Message Template Auto Format enabled
+2019-07-09 14:27:52.6607 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 14:27:52.8078 Info Adding target FileTarget(Name=allfile)
+2019-07-09 14:27:52.8151 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 14:27:52.9005 Info Found 45 configuration items
+2019-07-09 14:27:52.9320 Info Configuration initialized.
+2019-07-09 14:27:52.9419 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 14:28:34.8752 Info Message Template Auto Format enabled
+2019-07-09 14:28:34.9907 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 14:28:35.4901 Info Adding target FileTarget(Name=allfile)
+2019-07-09 14:28:35.4901 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 14:28:35.6246 Info Found 45 configuration items
+2019-07-09 14:28:35.6758 Info Configuration initialized.
+2019-07-09 14:28:35.7607 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 14:30:15.3952 Info Configuring from an XML element in C:\source\App\App\bin\Debug\netcoreapp2.1\nlog.config...
+2019-07-09 14:30:15.3952 Info Message Template Auto Format enabled
+2019-07-09 14:30:15.4118 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 14:30:15.4118 Info Adding target FileTarget(Name=allfile)
+2019-07-09 14:30:15.4383 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 14:30:15.4417 Info Closing old configuration.
+2019-07-09 14:30:15.5294 Info Found 45 configuration items
+2019-07-09 14:54:54.2495 Info Message Template Auto Format enabled
+2019-07-09 14:54:54.2984 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 14:54:54.5739 Info Adding target FileTarget(Name=allfile)
+2019-07-09 14:54:54.5806 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 14:54:54.6846 Info Found 45 configuration items
+2019-07-09 14:54:54.7285 Info Configuration initialized.
+2019-07-09 14:54:54.7607 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 15:02:59.3214 Info Message Template Auto Format enabled
+2019-07-09 15:02:59.3532 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 15:02:59.5451 Info Adding target FileTarget(Name=allfile)
+2019-07-09 15:02:59.5532 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 15:02:59.6027 Info Found 45 configuration items
+2019-07-09 15:02:59.6209 Info Configuration initialized.
+2019-07-09 15:02:59.6415 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 15:08:16.3359 Info Message Template Auto Format enabled
+2019-07-09 15:08:16.3832 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 15:08:16.5773 Info Adding target FileTarget(Name=allfile)
+2019-07-09 15:08:16.5810 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 15:08:16.6468 Info Found 45 configuration items
+2019-07-09 15:08:16.6735 Info Configuration initialized.
+2019-07-09 15:08:16.7027 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 15:18:36.2220 Info Message Template Auto Format enabled
+2019-07-09 15:18:36.3163 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 15:18:36.5406 Info Adding target FileTarget(Name=allfile)
+2019-07-09 15:18:36.5406 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 15:18:36.6407 Info Found 45 configuration items
+2019-07-09 15:18:36.6829 Info Configuration initialized.
+2019-07-09 15:18:36.7375 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.4.10085. Product version: 4.6.4.
+2019-07-09 15:19:36.5252 Info Configuring from an XML element in C:\Users\zlobur\Source\Repos\patientcopy1\App\bin\Debug\netcoreapp2.1\nlog.config...
+2019-07-09 15:19:36.5252 Info Message Template Auto Format enabled
+2019-07-09 15:19:36.5252 Info Loading assembly: NLog.Web.AspNetCore
+2019-07-09 15:19:36.5345 Info Adding target FileTarget(Name=allfile)
+2019-07-09 15:19:36.5345 Info Adding target FileTarget(Name=ownFile-web)
+2019-07-09 15:19:36.5345 Info Closing old configuration.
+2019-07-09 15:19:36.5972 Info Found 45 configuration items

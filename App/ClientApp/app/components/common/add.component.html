@@ -1,0 +1,30 @@
+﻿<div class="content-row">
+    <form class="col-xs-4">
+        <div class="form-group">
+            <label>Имя</label>
+            <input class="form-control" name="firstname" [(ngModel)]="patient.firstName" #firstName="ngModel" required />
+            <div [hidden]="firstName.valid || firstName.untouched" class="alert alert-danger">
+                Некорректное имя
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Фамилия</label>
+            <input type="text" [(ngModel)]="patient.lastName" name="secondname" class="form-control" #secondname="ngModel" required />
+            <div [hidden]="secondname.valid || secondname.untouched" class="alert alert-danger">
+                Некорректная фамилия
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Дата рождения</label>
+            <div>
+                <kendo-datepicker [(ngModel)]="patient.birthDate" name="birthDate" #birthDate="ngModel"></kendo-datepicker>
+            </div>
+            <div [hidden]="validDate() || birthDate.untouched" class="alert alert-danger">
+                Некорректная дата рождения, дата рождения должна быть более 1800 года
+            </div>
+        </div>
+        <div>
+            <button [disabled]="firstName.invalid || secondname.invalid || !validDate()" type="button" (click)="save()" class="btn btn-success">Сохранить</button>
+        </div>
+    </form>
+</div>
